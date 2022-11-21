@@ -79,7 +79,7 @@ Installation position: floor, ceiling, walls.
 ![image](https://user-images.githubusercontent.com/36288975/201621235-3b8b46a9-3c19-4207-9ea2-6a7954eb6135.png)
 and click on the connect icon 
 
-3. click on the 
+### program
 
 
 
@@ -97,8 +97,6 @@ and click on the connect icon
 
 
 
-
-### output video and screen shots of pick and place 
 
 
 
